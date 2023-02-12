@@ -1,0 +1,15 @@
+D:\gek\c\DZ\C-Dz1\zad4\bin\Debug\net6.0\zad4.exe
+D:\gek\c\DZ\C-Dz1\zad4\bin\Debug\net6.0\zad4.deps.json
+D:\gek\c\DZ\C-Dz1\zad4\bin\Debug\net6.0\zad4.runtimeconfig.json
+D:\gek\c\DZ\C-Dz1\zad4\bin\Debug\net6.0\zad4.dll
+D:\gek\c\DZ\C-Dz1\zad4\bin\Debug\net6.0\zad4.pdb
+D:\gek\c\DZ\C-Dz1\zad4\obj\Debug\net6.0\zad4.csproj.AssemblyReference.cache
+D:\gek\c\DZ\C-Dz1\zad4\obj\Debug\net6.0\zad4.GeneratedMSBuildEditorConfig.editorconfig
+D:\gek\c\DZ\C-Dz1\zad4\obj\Debug\net6.0\zad4.AssemblyInfoInputs.cache
+D:\gek\c\DZ\C-Dz1\zad4\obj\Debug\net6.0\zad4.AssemblyInfo.cs
+D:\gek\c\DZ\C-Dz1\zad4\obj\Debug\net6.0\zad4.csproj.CoreCompileInputs.cache
+D:\gek\c\DZ\C-Dz1\zad4\obj\Debug\net6.0\zad4.dll
+D:\gek\c\DZ\C-Dz1\zad4\obj\Debug\net6.0\refint\zad4.dll
+D:\gek\c\DZ\C-Dz1\zad4\obj\Debug\net6.0\zad4.pdb
+D:\gek\c\DZ\C-Dz1\zad4\obj\Debug\net6.0\zad4.genruntimeconfig.cache
+D:\gek\c\DZ\C-Dz1\zad4\obj\Debug\net6.0\ref\zad4.dll
